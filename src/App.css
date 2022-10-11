@@ -1,6 +1,6 @@
 .App {
     padding-bottom: 60px;
-    background-image: url("./Images/crud.jpg");
+    background-image: url("../public/Images/crud.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
